@@ -6,4 +6,4 @@ Website preview:
 After Mediaquery:
 
 
-![technical-documentation-page freecodecamp rocks_ (2)](https://user-images.githubusercontent.com/39915155/223151405-298a26a0-5c35-44f8-b569-78f19c5745aa.png)
+![Screen Shot 2023-03-06 at 17 17 32](https://user-images.githubusercontent.com/39915155/223152065-a5276e58-0763-4084-ad1b-4a841e990a6a.png)
